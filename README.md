@@ -7,7 +7,7 @@ The Neural network models have the following specifications :
 	
 	2. 5 nodes in the hidden layer
 	
-	3. Gradient Decent used as loss
+	3. Gradient Descent used as loss
 	
 	4. Learning rate is constant
 	
